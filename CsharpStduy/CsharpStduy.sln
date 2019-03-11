@@ -3,15 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00.CsharpStduy", "CsharpStduy\00.CsharpStduy.csproj", "{136BA929-2796-4C40-AD9F-FAC3DA573BD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "00.CsharpStduy", "CsharpStduy\00.CsharpStduy.csproj", "{136BA929-2796-4C40-AD9F-FAC3DA573BD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.char형 변환", "char형 변환\01.char형 변환.csproj", "{616A04E5-C28F-45E9-A27C-C717035480FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.char형 변환", "char형 변환\01.char형 변환.csproj", "{616A04E5-C28F-45E9-A27C-C717035480FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.byte형", "byte형\02.byte형.csproj", "{C02F9B33-30A5-4E9C-86F0-93622A0B5C03}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.byte형", "byte형\02.byte형.csproj", "{C02F9B33-30A5-4E9C-86F0-93622A0B5C03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.short형", "short형\03.short형.csproj", "{85CBE690-3488-40CE-BC89-488AA3E5A313}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.short형", "short형\03.short형.csproj", "{85CBE690-3488-40CE-BC89-488AA3E5A313}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.string형 문제 2개", "string형 문제 2개\04.string형 문제 2개.csproj", "{2AE772AA-4D2A-4B5E-A1A8-B56F5D386F3E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.string형 문제 2개", "string형 문제 2개\04.string형 문제 2개.csproj", "{2AE772AA-4D2A-4B5E-A1A8-B56F5D386F3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.암시적 자료형 var형", "암시적 자료형 var형\05.암시적 자료형 var형.csproj", "{AF0EE0CD-02B7-4628-9790-FCC21DA9EEAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.nullable 형", "06.nullable 형\06.nullable 형.csproj", "{F952B0C8-16F3-4126-8010-16F6C38251C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.변환", "08.변환\08.변환.csproj", "{67466F41-38E3-43B1-B8A0-9B7D3B4FB986}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.cs", "09.cs\09.cs.csproj", "{F3BCEDFD-53EF-4FDF-8A93-05AC783D6098}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +47,22 @@ Global
 		{2AE772AA-4D2A-4B5E-A1A8-B56F5D386F3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2AE772AA-4D2A-4B5E-A1A8-B56F5D386F3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2AE772AA-4D2A-4B5E-A1A8-B56F5D386F3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF0EE0CD-02B7-4628-9790-FCC21DA9EEAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF0EE0CD-02B7-4628-9790-FCC21DA9EEAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF0EE0CD-02B7-4628-9790-FCC21DA9EEAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF0EE0CD-02B7-4628-9790-FCC21DA9EEAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F952B0C8-16F3-4126-8010-16F6C38251C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F952B0C8-16F3-4126-8010-16F6C38251C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F952B0C8-16F3-4126-8010-16F6C38251C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F952B0C8-16F3-4126-8010-16F6C38251C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67466F41-38E3-43B1-B8A0-9B7D3B4FB986}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67466F41-38E3-43B1-B8A0-9B7D3B4FB986}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67466F41-38E3-43B1-B8A0-9B7D3B4FB986}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67466F41-38E3-43B1-B8A0-9B7D3B4FB986}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3BCEDFD-53EF-4FDF-8A93-05AC783D6098}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3BCEDFD-53EF-4FDF-8A93-05AC783D6098}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3BCEDFD-53EF-4FDF-8A93-05AC783D6098}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3BCEDFD-53EF-4FDF-8A93-05AC783D6098}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

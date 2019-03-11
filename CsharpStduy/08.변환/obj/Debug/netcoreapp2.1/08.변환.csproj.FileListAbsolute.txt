@@ -1,0 +1,11 @@
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\08.변환\bin\Debug\netcoreapp2.1\08.변환.deps.json
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\08.변환\bin\Debug\netcoreapp2.1\08.변환.runtimeconfig.json
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\08.변환\bin\Debug\netcoreapp2.1\08.변환.runtimeconfig.dev.json
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\08.변환\bin\Debug\netcoreapp2.1\08.변환.dll
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\08.변환\bin\Debug\netcoreapp2.1\08.변환.pdb
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\08.변환\obj\Debug\netcoreapp2.1\08.변환.csprojAssemblyReference.cache
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\08.변환\obj\Debug\netcoreapp2.1\08.변환.csproj.CoreCompileInputs.cache
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\08.변환\obj\Debug\netcoreapp2.1\08.변환.AssemblyInfoInputs.cache
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\08.변환\obj\Debug\netcoreapp2.1\08.변환.AssemblyInfo.cs
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\08.변환\obj\Debug\netcoreapp2.1\08.변환.dll
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\08.변환\obj\Debug\netcoreapp2.1\08.변환.pdb

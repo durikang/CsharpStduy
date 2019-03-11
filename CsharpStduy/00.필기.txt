@@ -1,5 +1,7 @@
 1.C#의 데이터형 obecj로 부터 파생된 객체
 
+객체 = 멤버 변수+메서드;
+
 System.Object ==object
 
 c인 경우 
@@ -56,6 +58,34 @@ c/c++문자열과 차이점
 @"c:\temp\test.txt"-> @를 쓸경우 일반적인 경우 많이 쓰임
 "c:\\temp\\test.txt"-> @를 안쓸 경우
 
+암시적 데이터 var
+-대입되는 데이터에 따라 데이터형 결정
+-var를 사용할 수 없는 예
+1)null값 초기화, 매개변수(함수의 복사와 대입)로는 사용 못함.
+2)var는 지역변수로만 사용
+  클래스 멤버로는 사용 못함
+3)연속적으로 초기화 하는 경우
+  var m=10,=20; -> X 못씀
 
+nullable 형
+null을 허용하지 않는 데이터형이 ->기본 데이터 형을 허용하지 않음.
+null값을 허용->null을 저장하겠다는 의미.
+형식
+데이터형? 변수명;
+int? var1;
+bool?var2=null;//true,false,null까지 저장.
+
+-속성
+.HasValue //true,false
+.Value//읽기 전용
+
+
+데이터의 변환
+
+-Tostring()
+-기본 데이터형.parse()
+-Convert.ToInt32()//int형
+ Convert.ToSingle()//float형
+ Convert.TOXXXXX()
 
 

@@ -1,0 +1,10 @@
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\09.cs\bin\Debug\netcoreapp2.1\09.cs.deps.json
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\09.cs\bin\Debug\netcoreapp2.1\09.cs.runtimeconfig.json
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\09.cs\bin\Debug\netcoreapp2.1\09.cs.runtimeconfig.dev.json
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\09.cs\bin\Debug\netcoreapp2.1\09.cs.dll
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\09.cs\bin\Debug\netcoreapp2.1\09.cs.pdb
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\09.cs\obj\Debug\netcoreapp2.1\09.cs.csproj.CoreCompileInputs.cache
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\09.cs\obj\Debug\netcoreapp2.1\09.cs.AssemblyInfoInputs.cache
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\09.cs\obj\Debug\netcoreapp2.1\09.cs.AssemblyInfo.cs
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\09.cs\obj\Debug\netcoreapp2.1\09.cs.dll
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\09.cs\obj\Debug\netcoreapp2.1\09.cs.pdb
