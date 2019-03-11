@@ -1,0 +1,10 @@
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\string형 문제 2개\bin\Debug\netcoreapp2.1\04.string형 문제 2개.deps.json
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\string형 문제 2개\bin\Debug\netcoreapp2.1\04.string형 문제 2개.runtimeconfig.json
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\string형 문제 2개\bin\Debug\netcoreapp2.1\04.string형 문제 2개.runtimeconfig.dev.json
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\string형 문제 2개\bin\Debug\netcoreapp2.1\04.string형 문제 2개.dll
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\string형 문제 2개\bin\Debug\netcoreapp2.1\04.string형 문제 2개.pdb
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\string형 문제 2개\obj\Debug\netcoreapp2.1\04.string형 문제 2개.csproj.CoreCompileInputs.cache
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\string형 문제 2개\obj\Debug\netcoreapp2.1\04.string형 문제 2개.AssemblyInfoInputs.cache
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\string형 문제 2개\obj\Debug\netcoreapp2.1\04.string형 문제 2개.AssemblyInfo.cs
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\string형 문제 2개\obj\Debug\netcoreapp2.1\04.string형 문제 2개.dll
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\string형 문제 2개\obj\Debug\netcoreapp2.1\04.string형 문제 2개.pdb

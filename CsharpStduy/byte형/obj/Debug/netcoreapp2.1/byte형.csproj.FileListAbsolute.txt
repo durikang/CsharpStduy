@@ -1,0 +1,10 @@
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\byte형\bin\Debug\netcoreapp2.1\byte형.deps.json
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\byte형\bin\Debug\netcoreapp2.1\byte형.runtimeconfig.json
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\byte형\bin\Debug\netcoreapp2.1\byte형.runtimeconfig.dev.json
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\byte형\bin\Debug\netcoreapp2.1\byte형.dll
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\byte형\bin\Debug\netcoreapp2.1\byte형.pdb
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\byte형\obj\Debug\netcoreapp2.1\byte형.csproj.CoreCompileInputs.cache
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\byte형\obj\Debug\netcoreapp2.1\byte형.AssemblyInfoInputs.cache
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\byte형\obj\Debug\netcoreapp2.1\byte형.AssemblyInfo.cs
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\byte형\obj\Debug\netcoreapp2.1\byte형.dll
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\byte형\obj\Debug\netcoreapp2.1\byte형.pdb
