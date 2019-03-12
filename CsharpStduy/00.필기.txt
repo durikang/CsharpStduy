@@ -88,4 +88,76 @@ bool?var2=null;//true,false,null까지 저장.
  Convert.ToSingle()//float형
  Convert.TOXXXXX()
 
+박시와 언박싱
+-박싱
+ 데이터 형을 최상위 object 형으로 변환하여 
+ 힙(heap메모리)에 저장
+ int m=123;
+ object obj=m;
+-언박싱
+ 힙에 저장된 형식을 다시 원래의 형식으로 변환
+ int n=(int)obj;
+
+표준 입력.
+-Console.ReadKey()
+ 사용자가 눌린 키 한 문자 정보를 리턴하는 메서드
+- 함수 원형
+ public static CosnoleKeyInfo ReadKey()
+ public static ConsoleKeyInfo ReadKey(bool intercept)
+ => true: 화면 출력 안 함 
+      false:화면 출력
+ ConsoleKeyInfo 속성
+ 키의 문자와 Shift,Alt,Ctrl 보조키 상태 포함
+ -ConsoleKeyInfo.Key
+  ConsoleKey 열거형 값
+  ConsoleKey.A, ConsoleKey.Escape 등 ...
+  MSDN에서 찾아볼 것.
+
+-ConsoleKeyInfo.KeyChar
+ 눌린 키의 유니코드를 얻는 속성으로
+ 대소문자 등을 모두 구분할 수 있다.
+ 
+
+사용자 지정형
+
+1.구조체
+public :: 접근 지정자(멤버랑 속성 메서드를 모두에게 쓸 수 있게끔 해줌)
+
+public struct 구조체명
+{
+//멤버,속성,메서드
+
+}
+
+*제한 사항
+-구조체에 선언된 const, static 변수만 초기화 가능
+-구조체 안에 선언할 수 있는 생성자는 매개변수가 반드시 있어야 한다.
+-구조체를 같은 구조체에 대입하게 되면 값이 복사 된다.
+-구조체는 값 형식이고 클래스는 참조 형식이다.
+=>구조체의 값을 대입하고 그것을 다른 값으로 초기화 해서 출력하면 
+그 다른 값이 출력 돼는대,
+클래스는 클래스의 내용을 참조 하기 때문에 다른 클래스를 바꾸게 되면 원래 클래스도 같이 바뀌게 됀다.
+-구조체는 값 형식이므로 선언마느로도 사용 가능하다.
+
+new 를 사용 했을 때만
+ ->생서앚가 호출
+    ->기본값으로 초기화
+-구조체는 구조체 또는 클래스에 상속할 수 없다.
+-구조체는 인터페이스를 상속하여 메서드를 구현할 수 있다.
+
+열겨형
+-상수를 문자열로 대치하여 선언
+ 상숭 의미 부여
+
+-형식
+enum 열거형 명칭{ 문자열1,문자열2};//기본 0,1 .. 
+enum 열거형 명칭{문자열1 =상수,//1이면 다음 2
+                          문자열 2=상수};
+enum 열거형 명칭{문자열1 =상수,//3이면 다음은 3
+                          문자열 2};
+
+-기본은 int형이미지만 char형을 제외한 형식 지정할 수 있음
+ enum Days: byte{Sun =0,Mon,Tue,Wed,Thu};
+
+-열거형 변수가 아닌 변수에 열거형 값을 대입할 때는 데이터형을 명시할 것.
 

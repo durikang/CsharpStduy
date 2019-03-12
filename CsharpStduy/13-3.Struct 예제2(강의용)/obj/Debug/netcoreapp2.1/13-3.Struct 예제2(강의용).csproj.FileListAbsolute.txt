@@ -1,0 +1,10 @@
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\13-3.Struct 예제2(강의용)\bin\Debug\netcoreapp2.1\13-3.Struct 예제2(강의용).deps.json
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\13-3.Struct 예제2(강의용)\bin\Debug\netcoreapp2.1\13-3.Struct 예제2(강의용).runtimeconfig.json
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\13-3.Struct 예제2(강의용)\bin\Debug\netcoreapp2.1\13-3.Struct 예제2(강의용).runtimeconfig.dev.json
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\13-3.Struct 예제2(강의용)\bin\Debug\netcoreapp2.1\13-3.Struct 예제2(강의용).dll
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\13-3.Struct 예제2(강의용)\bin\Debug\netcoreapp2.1\13-3.Struct 예제2(강의용).pdb
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\13-3.Struct 예제2(강의용)\obj\Debug\netcoreapp2.1\13-3.Struct 예제2(강의용).csproj.CoreCompileInputs.cache
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\13-3.Struct 예제2(강의용)\obj\Debug\netcoreapp2.1\13-3.Struct 예제2(강의용).AssemblyInfoInputs.cache
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\13-3.Struct 예제2(강의용)\obj\Debug\netcoreapp2.1\13-3.Struct 예제2(강의용).AssemblyInfo.cs
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\13-3.Struct 예제2(강의용)\obj\Debug\netcoreapp2.1\13-3.Struct 예제2(강의용).dll
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\13-3.Struct 예제2(강의용)\obj\Debug\netcoreapp2.1\13-3.Struct 예제2(강의용).pdb

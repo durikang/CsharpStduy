@@ -1,0 +1,10 @@
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\12.ReadLine\bin\Debug\netcoreapp2.1\12.ReadLine.deps.json
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\12.ReadLine\bin\Debug\netcoreapp2.1\12.ReadLine.runtimeconfig.json
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\12.ReadLine\bin\Debug\netcoreapp2.1\12.ReadLine.runtimeconfig.dev.json
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\12.ReadLine\bin\Debug\netcoreapp2.1\12.ReadLine.dll
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\12.ReadLine\bin\Debug\netcoreapp2.1\12.ReadLine.pdb
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\12.ReadLine\obj\Debug\netcoreapp2.1\12.ReadLine.csproj.CoreCompileInputs.cache
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\12.ReadLine\obj\Debug\netcoreapp2.1\12.ReadLine.AssemblyInfoInputs.cache
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\12.ReadLine\obj\Debug\netcoreapp2.1\12.ReadLine.AssemblyInfo.cs
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\12.ReadLine\obj\Debug\netcoreapp2.1\12.ReadLine.dll
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\12.ReadLine\obj\Debug\netcoreapp2.1\12.ReadLine.pdb

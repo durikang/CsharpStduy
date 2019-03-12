@@ -1,0 +1,10 @@
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\10.박싱과 언박싱\bin\Debug\netcoreapp2.1\10.박싱과 언박싱.deps.json
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\10.박싱과 언박싱\bin\Debug\netcoreapp2.1\10.박싱과 언박싱.runtimeconfig.json
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\10.박싱과 언박싱\bin\Debug\netcoreapp2.1\10.박싱과 언박싱.runtimeconfig.dev.json
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\10.박싱과 언박싱\bin\Debug\netcoreapp2.1\10.박싱과 언박싱.dll
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\10.박싱과 언박싱\bin\Debug\netcoreapp2.1\10.박싱과 언박싱.pdb
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\10.박싱과 언박싱\obj\Debug\netcoreapp2.1\10.박싱과 언박싱.csproj.CoreCompileInputs.cache
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\10.박싱과 언박싱\obj\Debug\netcoreapp2.1\10.박싱과 언박싱.AssemblyInfoInputs.cache
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\10.박싱과 언박싱\obj\Debug\netcoreapp2.1\10.박싱과 언박싱.AssemblyInfo.cs
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\10.박싱과 언박싱\obj\Debug\netcoreapp2.1\10.박싱과 언박싱.dll
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\10.박싱과 언박싱\obj\Debug\netcoreapp2.1\10.박싱과 언박싱.pdb

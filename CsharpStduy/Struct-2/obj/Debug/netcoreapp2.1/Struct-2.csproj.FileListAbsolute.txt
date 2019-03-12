@@ -1,0 +1,10 @@
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\Struct-2\bin\Debug\netcoreapp2.1\Struct-2.deps.json
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\Struct-2\bin\Debug\netcoreapp2.1\Struct-2.runtimeconfig.json
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\Struct-2\bin\Debug\netcoreapp2.1\Struct-2.runtimeconfig.dev.json
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\Struct-2\bin\Debug\netcoreapp2.1\Struct-2.dll
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\Struct-2\bin\Debug\netcoreapp2.1\Struct-2.pdb
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\Struct-2\obj\Debug\netcoreapp2.1\Struct-2.csproj.CoreCompileInputs.cache
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\Struct-2\obj\Debug\netcoreapp2.1\Struct-2.AssemblyInfoInputs.cache
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\Struct-2\obj\Debug\netcoreapp2.1\Struct-2.AssemblyInfo.cs
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\Struct-2\obj\Debug\netcoreapp2.1\Struct-2.dll
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\Struct-2\obj\Debug\netcoreapp2.1\Struct-2.pdb
