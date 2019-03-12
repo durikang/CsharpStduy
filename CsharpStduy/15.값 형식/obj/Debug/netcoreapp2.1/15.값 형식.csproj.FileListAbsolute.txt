@@ -1,0 +1,10 @@
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\15.값 형식\bin\Debug\netcoreapp2.1\15.값 형식.deps.json
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\15.값 형식\bin\Debug\netcoreapp2.1\15.값 형식.runtimeconfig.json
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\15.값 형식\bin\Debug\netcoreapp2.1\15.값 형식.runtimeconfig.dev.json
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\15.값 형식\bin\Debug\netcoreapp2.1\15.값 형식.dll
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\15.값 형식\bin\Debug\netcoreapp2.1\15.값 형식.pdb
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\15.값 형식\obj\Debug\netcoreapp2.1\15.값 형식.csproj.CoreCompileInputs.cache
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\15.값 형식\obj\Debug\netcoreapp2.1\15.값 형식.AssemblyInfoInputs.cache
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\15.값 형식\obj\Debug\netcoreapp2.1\15.값 형식.AssemblyInfo.cs
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\15.값 형식\obj\Debug\netcoreapp2.1\15.값 형식.dll
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\15.값 형식\obj\Debug\netcoreapp2.1\15.값 형식.pdb

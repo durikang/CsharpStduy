@@ -25,17 +25,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10.박싱과 언박싱", "1
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11.ConsoleKeyInfo 속성", "11.ConsoleKeyInfo 속성\11.ConsoleKeyInfo 속성.csproj", "{BD323992-2176-4369-A2A3-E77D526F78C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.ReadLine", "12.ReadLine\12.ReadLine.csproj", "{C8F13761-71B6-4087-8DF1-63B43A3677ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12.ReadLine", "12.ReadLine\12.ReadLine.csproj", "{C8F13761-71B6-4087-8DF1-63B43A3677ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.Struct", "Struct\13.Struct.csproj", "{2D347FFE-E87D-4558-A1F1-DF56C2FB709B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13.Struct", "Struct\13.Struct.csproj", "{2D347FFE-E87D-4558-A1F1-DF56C2FB709B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-1.Struct-2", "Struct-2\13-1.Struct-2.csproj", "{17EBA0F3-F16C-4B6E-A4BA-21DEBD4D8C6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13-1.Struct-2", "Struct-2\13-1.Struct-2.csproj", "{17EBA0F3-F16C-4B6E-A4BA-21DEBD4D8C6E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-2.Struct 예제", "13-2.Struct 예제\13-2.Struct 예제.csproj", "{3E74AE4D-FF85-4F42-BB30-841A3C64B3A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13-2.Struct 예제", "13-2.Struct 예제\13-2.Struct 예제.csproj", "{3E74AE4D-FF85-4F42-BB30-841A3C64B3A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-3.Struct 예제2(강의용)", "13-3.Struct 예제2(강의용)\13-3.Struct 예제2(강의용).csproj", "{497E9161-B482-4358-AAD6-349FE70F8405}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13-3.Struct 예제2(강의용)", "13-3.Struct 예제2(강의용)\13-3.Struct 예제2(강의용).csproj", "{497E9161-B482-4358-AAD6-349FE70F8405}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.열겨형", "14.열겨형\14.열겨형.csproj", "{C0D9455D-D036-49DC-8F2A-11E7711EF771}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14.열겨형", "14.열겨형\14.열겨형.csproj", "{C0D9455D-D036-49DC-8F2A-11E7711EF771}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.값 형식", "15.값 형식\15.값 형식.csproj", "{B8175F42-5E8E-41BF-B6CA-7A74B743E29D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{C0D9455D-D036-49DC-8F2A-11E7711EF771}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0D9455D-D036-49DC-8F2A-11E7711EF771}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0D9455D-D036-49DC-8F2A-11E7711EF771}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8175F42-5E8E-41BF-B6CA-7A74B743E29D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8175F42-5E8E-41BF-B6CA-7A74B743E29D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8175F42-5E8E-41BF-B6CA-7A74B743E29D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8175F42-5E8E-41BF-B6CA-7A74B743E29D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -88,7 +88,7 @@ bool?var2=null;//true,false,null까지 저장.
  Convert.ToSingle()//float형
  Convert.TOXXXXX()
 
-박시와 언박싱
+박시과 언박싱
 -박싱
  데이터 형을 최상위 object 형으로 변환하여 
  힙(heap메모리)에 저장
@@ -160,4 +160,19 @@ enum 열거형 명칭{문자열1 =상수,//3이면 다음은 3
  enum Days: byte{Sun =0,Mon,Tue,Wed,Thu};
 
 -열거형 변수가 아닌 변수에 열거형 값을 대입할 때는 데이터형을 명시할 것.
+
+값 형식과 참조 형식
+
+값 형식
+-System.Object 
+ +System.ValueType에서 파생
+-변수가 직접 값을 저장하는 형
+-기본 데이터형,구조체,열거형
+-선언vs생성(new)
+
+참조 형식
+-한 객체를 참조형 변수가 사용할 때
+ 참조형에 의해 내용이 바뀌면, 객체에 영향을 줌
+-class,interface,delegate,배열,string
+-객체와 참조형 사이의 대입은 객체의 메모리 주소가 복사됨.
 
