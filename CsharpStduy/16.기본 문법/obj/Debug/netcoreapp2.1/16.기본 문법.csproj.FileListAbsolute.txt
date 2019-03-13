@@ -1,0 +1,10 @@
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\16.기본 문법\bin\Debug\netcoreapp2.1\16.기본 문법.deps.json
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\16.기본 문법\bin\Debug\netcoreapp2.1\16.기본 문법.runtimeconfig.json
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\16.기본 문법\bin\Debug\netcoreapp2.1\16.기본 문법.runtimeconfig.dev.json
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\16.기본 문법\bin\Debug\netcoreapp2.1\16.기본 문법.dll
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\16.기본 문법\bin\Debug\netcoreapp2.1\16.기본 문법.pdb
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\16.기본 문법\obj\Debug\netcoreapp2.1\16.기본 문법.csproj.CoreCompileInputs.cache
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\16.기본 문법\obj\Debug\netcoreapp2.1\16.기본 문법.AssemblyInfoInputs.cache
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\16.기본 문법\obj\Debug\netcoreapp2.1\16.기본 문법.AssemblyInfo.cs
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\16.기본 문법\obj\Debug\netcoreapp2.1\16.기본 문법.dll
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\16.기본 문법\obj\Debug\netcoreapp2.1\16.기본 문법.pdb

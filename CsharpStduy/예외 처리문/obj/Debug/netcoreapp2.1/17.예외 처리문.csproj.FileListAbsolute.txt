@@ -1,0 +1,10 @@
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\예외 처리문\bin\Debug\netcoreapp2.1\17.예외 처리문.deps.json
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\예외 처리문\bin\Debug\netcoreapp2.1\17.예외 처리문.runtimeconfig.json
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\예외 처리문\bin\Debug\netcoreapp2.1\17.예외 처리문.runtimeconfig.dev.json
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\예외 처리문\bin\Debug\netcoreapp2.1\17.예외 처리문.dll
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\예외 처리문\bin\Debug\netcoreapp2.1\17.예외 처리문.pdb
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\예외 처리문\obj\Debug\netcoreapp2.1\17.예외 처리문.csproj.CoreCompileInputs.cache
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\예외 처리문\obj\Debug\netcoreapp2.1\17.예외 처리문.AssemblyInfoInputs.cache
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\예외 처리문\obj\Debug\netcoreapp2.1\17.예외 처리문.AssemblyInfo.cs
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\예외 처리문\obj\Debug\netcoreapp2.1\17.예외 처리문.dll
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\예외 처리문\obj\Debug\netcoreapp2.1\17.예외 처리문.pdb

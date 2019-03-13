@@ -1,0 +1,11 @@
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\제어문\bin\Debug\netcoreapp2.1\제어문.deps.json
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\제어문\bin\Debug\netcoreapp2.1\제어문.runtimeconfig.json
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\제어문\bin\Debug\netcoreapp2.1\제어문.runtimeconfig.dev.json
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\제어문\bin\Debug\netcoreapp2.1\제어문.dll
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\제어문\bin\Debug\netcoreapp2.1\제어문.pdb
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\제어문\obj\Debug\netcoreapp2.1\제어문.csproj.CoreCompileInputs.cache
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\제어문\obj\Debug\netcoreapp2.1\제어문.AssemblyInfoInputs.cache
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\제어문\obj\Debug\netcoreapp2.1\제어문.AssemblyInfo.cs
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\제어문\obj\Debug\netcoreapp2.1\제어문.dll
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\제어문\obj\Debug\netcoreapp2.1\제어문.pdb
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\제어문\obj\Debug\netcoreapp2.1\제어문.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\Is연산자\bin\Debug\netcoreapp2.1\Is연산자.deps.json
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\Is연산자\bin\Debug\netcoreapp2.1\Is연산자.runtimeconfig.json
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\Is연산자\bin\Debug\netcoreapp2.1\Is연산자.runtimeconfig.dev.json
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\Is연산자\bin\Debug\netcoreapp2.1\Is연산자.dll
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\Is연산자\bin\Debug\netcoreapp2.1\Is연산자.pdb
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\Is연산자\obj\Debug\netcoreapp2.1\Is연산자.csproj.CoreCompileInputs.cache
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\Is연산자\obj\Debug\netcoreapp2.1\Is연산자.AssemblyInfoInputs.cache
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\Is연산자\obj\Debug\netcoreapp2.1\Is연산자.AssemblyInfo.cs
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\Is연산자\obj\Debug\netcoreapp2.1\Is연산자.dll
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\Is연산자\obj\Debug\netcoreapp2.1\Is연산자.pdb

@@ -1,0 +1,10 @@
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\19.배열2\bin\Debug\netcoreapp2.1\19.배열2.deps.json
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\19.배열2\bin\Debug\netcoreapp2.1\19.배열2.runtimeconfig.json
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\19.배열2\bin\Debug\netcoreapp2.1\19.배열2.runtimeconfig.dev.json
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\19.배열2\bin\Debug\netcoreapp2.1\19.배열2.dll
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\19.배열2\bin\Debug\netcoreapp2.1\19.배열2.pdb
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\19.배열2\obj\Debug\netcoreapp2.1\19.배열2.csproj.CoreCompileInputs.cache
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\19.배열2\obj\Debug\netcoreapp2.1\19.배열2.AssemblyInfoInputs.cache
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\19.배열2\obj\Debug\netcoreapp2.1\19.배열2.AssemblyInfo.cs
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\19.배열2\obj\Debug\netcoreapp2.1\19.배열2.dll
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\19.배열2\obj\Debug\netcoreapp2.1\19.배열2.pdb
