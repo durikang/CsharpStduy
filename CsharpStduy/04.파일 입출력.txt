@@ -1,0 +1,18 @@
+파일 입출력
+
+1.파일 스트림
+
+*스트림(Stream)?
+-파일,네트워크 등에서 데이터를 바이트 단위로 읽고 쓰는 클래스
+-stream class는 상위 기본 클래스임(최상위 기본 클래스는 object임)
+->상속 클래스
+  FileStream,MemoryStream,
+  NetworkStream, sqlFileStream 등
+-using System.IO 선언
+
+FileStream?
+파일 입출력을 다루는 기본 클래스
+System.Object
+ + System.MarshlByRefObject
+    +System.IO.Stream
+

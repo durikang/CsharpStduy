@@ -1,0 +1,10 @@
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\24-2.FileStream과StreamReader 사용법\bin\Debug\netcoreapp2.1\24-2.FileStream과StreamReader 사용법.deps.json
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\24-2.FileStream과StreamReader 사용법\bin\Debug\netcoreapp2.1\24-2.FileStream과StreamReader 사용법.runtimeconfig.json
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\24-2.FileStream과StreamReader 사용법\bin\Debug\netcoreapp2.1\24-2.FileStream과StreamReader 사용법.runtimeconfig.dev.json
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\24-2.FileStream과StreamReader 사용법\bin\Debug\netcoreapp2.1\24-2.FileStream과StreamReader 사용법.dll
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\24-2.FileStream과StreamReader 사용법\bin\Debug\netcoreapp2.1\24-2.FileStream과StreamReader 사용법.pdb
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\24-2.FileStream과StreamReader 사용법\obj\Debug\netcoreapp2.1\24-2.FileStream과StreamReader 사용법.csproj.CoreCompileInputs.cache
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\24-2.FileStream과StreamReader 사용법\obj\Debug\netcoreapp2.1\24-2.FileStream과StreamReader 사용법.AssemblyInfoInputs.cache
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\24-2.FileStream과StreamReader 사용법\obj\Debug\netcoreapp2.1\24-2.FileStream과StreamReader 사용법.AssemblyInfo.cs
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\24-2.FileStream과StreamReader 사용법\obj\Debug\netcoreapp2.1\24-2.FileStream과StreamReader 사용법.dll
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\24-2.FileStream과StreamReader 사용법\obj\Debug\netcoreapp2.1\24-2.FileStream과StreamReader 사용법.pdb

@@ -1,0 +1,11 @@
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\20.가변배열\bin\Debug\netcoreapp2.1\20.가변배열.deps.json
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\20.가변배열\bin\Debug\netcoreapp2.1\20.가변배열.runtimeconfig.json
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\20.가변배열\bin\Debug\netcoreapp2.1\20.가변배열.runtimeconfig.dev.json
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\20.가변배열\bin\Debug\netcoreapp2.1\20.가변배열.dll
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\20.가변배열\bin\Debug\netcoreapp2.1\20.가변배열.pdb
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\20.가변배열\obj\Debug\netcoreapp2.1\20.가변배열.csproj.CoreCompileInputs.cache
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\20.가변배열\obj\Debug\netcoreapp2.1\20.가변배열.AssemblyInfoInputs.cache
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\20.가변배열\obj\Debug\netcoreapp2.1\20.가변배열.AssemblyInfo.cs
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\20.가변배열\obj\Debug\netcoreapp2.1\20.가변배열.dll
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\20.가변배열\obj\Debug\netcoreapp2.1\20.가변배열.pdb
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\20.가변배열\obj\Debug\netcoreapp2.1\20.가변배열.csprojAssemblyReference.cache

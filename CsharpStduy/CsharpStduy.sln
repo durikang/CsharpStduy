@@ -39,21 +39,33 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14.열겨형", "14.열겨�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15.값 형식", "15.값 형식\15.값 형식.csproj", "{B8175F42-5E8E-41BF-B6CA-7A74B743E29D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16.기본 문법", "16.기본 문법\16.기본 문법.csproj", "{94BF889E-4725-4734-AB8E-3DA0A79D9437}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16.기본 문법", "16.기본 문법\16.기본 문법.csproj", "{94BF889E-4725-4734-AB8E-3DA0A79D9437}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Is연산자", "Is연산자\Is연산자.csproj", "{6497E683-0E26-411C-8270-B5FF694F052B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Is연산자", "Is연산자\Is연산자.csproj", "{6497E683-0E26-411C-8270-B5FF694F052B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "as연산자", "as연산자\as연산자.csproj", "{CC0B7C91-F516-4DAE-B321-CD9C6C0EBD6C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "as연산자", "as연산자\as연산자.csproj", "{CC0B7C91-F516-4DAE-B321-CD9C6C0EBD6C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "null병합 연산자", "null병합 연산자\null병합 연산자.csproj", "{F418E1B4-0E11-4F19-8BD4-9DBC7A65E461}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "null병합 연산자", "null병합 연산자\null병합 연산자.csproj", "{F418E1B4-0E11-4F19-8BD4-9DBC7A65E461}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "제어문", "제어문\제어문.csproj", "{E53F5837-48BB-4C66-8194-6032603FDFE3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "제어문", "제어문\제어문.csproj", "{E53F5837-48BB-4C66-8194-6032603FDFE3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17.예외 처리문", "예외 처리문\17.예외 처리문.csproj", "{278984DF-5BFD-460E-B75A-E6D3CD963AE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "17.예외 처리문", "예외 처리문\17.예외 처리문.csproj", "{278984DF-5BFD-460E-B75A-E6D3CD963AE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.배열1", "18.배열1\18.배열1.csproj", "{61825BFB-0448-4783-BA11-02E7FDE2107B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "18.배열1", "18.배열1\18.배열1.csproj", "{61825BFB-0448-4783-BA11-02E7FDE2107B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19.배열2", "19.배열2\19.배열2.csproj", "{579A7D70-2668-4103-AF4A-2983F2B3D5DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "19.배열2", "19.배열2\19.배열2.csproj", "{579A7D70-2668-4103-AF4A-2983F2B3D5DE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20.가변배열", "20.가변배열\20.가변배열.csproj", "{39D04393-BD4C-44B5-A83A-E5DF3E07504C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21.배열을 리턴하는 함수", "21.배열을 리턴하는 함수\21.배열을 리턴하는 함수.csproj", "{7C775367-CC28-4C8A-A889-88D37CB456DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22.배열의 매서드들", "22.배열의 매서드들\22.배열의 매서드들.csproj", "{34040DE9-F21E-4C4A-8A37-3C01049BD934}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23.배열 복사 메서드", "23.배열 복사 메서드\23.배열 복사 메서드.csproj", "{AEF1376E-5CAD-46BD-9C10-93B8848CABF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23.파일 입출력", "23.파일 입출력\23.파일 입출력.csproj", "{B6B2F032-C8E5-44F6-A972-FC4355992916}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24-2.FileStream과StreamReader 사용법", "24-2.FileStream과StreamReader 사용법\24-2.FileStream과StreamReader 사용법.csproj", "{C309FBE7-44FA-4251-AA09-EEED76D388A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +177,30 @@ Global
 		{579A7D70-2668-4103-AF4A-2983F2B3D5DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{579A7D70-2668-4103-AF4A-2983F2B3D5DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{579A7D70-2668-4103-AF4A-2983F2B3D5DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39D04393-BD4C-44B5-A83A-E5DF3E07504C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39D04393-BD4C-44B5-A83A-E5DF3E07504C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39D04393-BD4C-44B5-A83A-E5DF3E07504C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39D04393-BD4C-44B5-A83A-E5DF3E07504C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C775367-CC28-4C8A-A889-88D37CB456DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C775367-CC28-4C8A-A889-88D37CB456DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C775367-CC28-4C8A-A889-88D37CB456DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C775367-CC28-4C8A-A889-88D37CB456DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34040DE9-F21E-4C4A-8A37-3C01049BD934}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34040DE9-F21E-4C4A-8A37-3C01049BD934}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34040DE9-F21E-4C4A-8A37-3C01049BD934}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34040DE9-F21E-4C4A-8A37-3C01049BD934}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEF1376E-5CAD-46BD-9C10-93B8848CABF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEF1376E-5CAD-46BD-9C10-93B8848CABF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEF1376E-5CAD-46BD-9C10-93B8848CABF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEF1376E-5CAD-46BD-9C10-93B8848CABF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6B2F032-C8E5-44F6-A972-FC4355992916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6B2F032-C8E5-44F6-A972-FC4355992916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6B2F032-C8E5-44F6-A972-FC4355992916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6B2F032-C8E5-44F6-A972-FC4355992916}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C309FBE7-44FA-4251-AA09-EEED76D388A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C309FBE7-44FA-4251-AA09-EEED76D388A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C309FBE7-44FA-4251-AA09-EEED76D388A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C309FBE7-44FA-4251-AA09-EEED76D388A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
