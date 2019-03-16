@@ -1,0 +1,7 @@
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\string 데이터 분리\bin\Debug\string 데이터 분리.exe.config
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\string 데이터 분리\bin\Debug\string 데이터 분리.exe
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\string 데이터 분리\bin\Debug\string 데이터 분리.pdb
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\string 데이터 분리\obj\Debug\string 데이터 분리.csprojAssemblyReference.cache
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\string 데이터 분리\obj\Debug\string 데이터 분리.csproj.CoreCompileInputs.cache
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\string 데이터 분리\obj\Debug\string 데이터 분리.exe
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\string 데이터 분리\obj\Debug\string 데이터 분리.pdb

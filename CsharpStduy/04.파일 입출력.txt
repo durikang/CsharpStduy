@@ -15,4 +15,58 @@ FileStream?
 System.Object
  + System.MarshlByRefObject
     +System.IO.Stream
+       +System.IO.FileStream
+byte[] 배열로 데이터를 읽거나 저장함.
+    ->형변환이 요구됨
 
+StreamWriter/StreamReader +
+BinaryWriter/BinaryReader와 사용
+
+파일 정보 설정에 사용
+public FileStream(
+	string path,->경로
+	FileMode mode,
+	FileAccess access
+)
+
+FileMode 열거형
+Append,Create,CreatNew
+Open,OpenOrCreate,Truncate
+
+FileAccess 열거형
+Read,ReadWrite,Write
+
+2.텍스트 파일처리
+-streamWriter,StreamReader
+-텍스트 파일의 특징
+-기본 단위 : 1 바이트
+-아스키코드 기반
+-아스키코드를 유니코드로 인코딩
+
+*역활
+-파일쓰기
+*상속 계층 구조
+System.Object
+  +System.MarshalByRefObject
+     +System.IO.StreamWriter
+*public class StreamWriter : TextWriter
+
+객체 생성과 해제
+static void main(string[] args){
+FileStream fs = new FileStream("test.txt",FileMode.Create);
+StreamWriter sw = new StreamWriter(fs);
+sw.Close();
+
+}
+
+-읽기 메서드
+ Read(),ReadLine()
+ string ReadLine()
+ FileStream] (
+
+*string 데이터 분리
+1.string str=
+  "C언어 :90 C#언어:100 컴퓨터 구조:70";
+
+public string[] split(params char[] separator)
+string.Split(new char[] {',','.',' '});

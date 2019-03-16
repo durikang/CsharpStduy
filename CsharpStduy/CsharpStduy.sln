@@ -57,15 +57,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "19.배열2", "19.배열2\19
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20.가변배열", "20.가변배열\20.가변배열.csproj", "{39D04393-BD4C-44B5-A83A-E5DF3E07504C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21.배열을 리턴하는 함수", "21.배열을 리턴하는 함수\21.배열을 리턴하는 함수.csproj", "{7C775367-CC28-4C8A-A889-88D37CB456DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "21.배열을 리턴하는 함수", "21.배열을 리턴하는 함수\21.배열을 리턴하는 함수.csproj", "{7C775367-CC28-4C8A-A889-88D37CB456DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22.배열의 매서드들", "22.배열의 매서드들\22.배열의 매서드들.csproj", "{34040DE9-F21E-4C4A-8A37-3C01049BD934}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "22.배열의 매서드들", "22.배열의 매서드들\22.배열의 매서드들.csproj", "{34040DE9-F21E-4C4A-8A37-3C01049BD934}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23.배열 복사 메서드", "23.배열 복사 메서드\23.배열 복사 메서드.csproj", "{AEF1376E-5CAD-46BD-9C10-93B8848CABF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "23.배열 복사 메서드", "23.배열 복사 메서드\23.배열 복사 메서드.csproj", "{AEF1376E-5CAD-46BD-9C10-93B8848CABF0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23.파일 입출력", "23.파일 입출력\23.파일 입출력.csproj", "{B6B2F032-C8E5-44F6-A972-FC4355992916}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "23.파일 입출력", "23.파일 입출력\23.파일 입출력.csproj", "{B6B2F032-C8E5-44F6-A972-FC4355992916}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24-2.FileStream과StreamReader 사용법", "24-2.FileStream과StreamReader 사용법\24-2.FileStream과StreamReader 사용법.csproj", "{C309FBE7-44FA-4251-AA09-EEED76D388A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "24-2.FileStream과StreamReader 사용법", "24-2.FileStream과StreamReader 사용법\24-2.FileStream과StreamReader 사용법.csproj", "{C309FBE7-44FA-4251-AA09-EEED76D388A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "string 데이터 분리", "string 데이터 분리\string 데이터 분리.csproj", "{934B4444-CB37-43BB-A8F3-65A34A5D0470}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadLine()의 활용", "ReadLine()의 활용\ReadLine()의 활용.csproj", "{2187388C-4247-4C39-84DA-D33A192F9689}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -201,6 +205,14 @@ Global
 		{C309FBE7-44FA-4251-AA09-EEED76D388A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C309FBE7-44FA-4251-AA09-EEED76D388A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C309FBE7-44FA-4251-AA09-EEED76D388A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{934B4444-CB37-43BB-A8F3-65A34A5D0470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{934B4444-CB37-43BB-A8F3-65A34A5D0470}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{934B4444-CB37-43BB-A8F3-65A34A5D0470}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{934B4444-CB37-43BB-A8F3-65A34A5D0470}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2187388C-4247-4C39-84DA-D33A192F9689}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2187388C-4247-4C39-84DA-D33A192F9689}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2187388C-4247-4C39-84DA-D33A192F9689}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2187388C-4247-4C39-84DA-D33A192F9689}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

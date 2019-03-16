@@ -1,0 +1,7 @@
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\ReadLine()의 활용\bin\Debug\ReadLine()의 활용.exe.config
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\ReadLine()의 활용\bin\Debug\ReadLine()의 활용.exe
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\ReadLine()의 활용\bin\Debug\ReadLine()의 활용.pdb
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\ReadLine()의 활용\obj\Debug\ReadLine()의 활용.csproj.CoreCompileInputs.cache
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\ReadLine()의 활용\obj\Debug\ReadLine()의 활용.exe
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\ReadLine()의 활용\obj\Debug\ReadLine()의 활용.pdb
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\ReadLine()의 활용\obj\Debug\ReadLine()의 활용.csprojAssemblyReference.cache
