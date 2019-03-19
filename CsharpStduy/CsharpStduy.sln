@@ -71,6 +71,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "string 데이터 분리", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadLine()의 활용", "ReadLine()의 활용\ReadLine()의 활용.csproj", "{2187388C-4247-4C39-84DA-D33A192F9689}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "클래스", "클래스\클래스.csproj", "{16E84F5F-2A55-4980-B829-AB04C5799FD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "속성과 인덱서", "속성과 인덱서\속성과 인덱서.csproj", "{7806ABFB-D2C1-4B7B-9863-375311C346A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25.배열~인덱서 정리", "10강.배열~인덱서 정리\25.배열~인덱서 정리.csproj", "{C09D35A2-5BBC-4AAD-BABF-A868EF85A2A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -213,6 +219,18 @@ Global
 		{2187388C-4247-4C39-84DA-D33A192F9689}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2187388C-4247-4C39-84DA-D33A192F9689}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2187388C-4247-4C39-84DA-D33A192F9689}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16E84F5F-2A55-4980-B829-AB04C5799FD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16E84F5F-2A55-4980-B829-AB04C5799FD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16E84F5F-2A55-4980-B829-AB04C5799FD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16E84F5F-2A55-4980-B829-AB04C5799FD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7806ABFB-D2C1-4B7B-9863-375311C346A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7806ABFB-D2C1-4B7B-9863-375311C346A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7806ABFB-D2C1-4B7B-9863-375311C346A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7806ABFB-D2C1-4B7B-9863-375311C346A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C09D35A2-5BBC-4AAD-BABF-A868EF85A2A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C09D35A2-5BBC-4AAD-BABF-A868EF85A2A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C09D35A2-5BBC-4AAD-BABF-A868EF85A2A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C09D35A2-5BBC-4AAD-BABF-A868EF85A2A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
