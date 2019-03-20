@@ -1,0 +1,6 @@
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\10강.배열~인덱서 정리\bin\Debug\10강.배열~인덱서 정리.exe.config
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\10강.배열~인덱서 정리\bin\Debug\10강.배열~인덱서 정리.exe
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\10강.배열~인덱서 정리\bin\Debug\10강.배열~인덱서 정리.pdb
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\10강.배열~인덱서 정리\obj\Debug\25.배열~인덱서 정리.csproj.CoreCompileInputs.cache
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\10강.배열~인덱서 정리\obj\Debug\10강.배열~인덱서 정리.exe
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\10강.배열~인덱서 정리\obj\Debug\10강.배열~인덱서 정리.pdb

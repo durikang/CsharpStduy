@@ -1,0 +1,7 @@
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\속성과 인덱서\bin\Debug\속성과 인덱서.exe.config
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\속성과 인덱서\bin\Debug\속성과 인덱서.exe
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\속성과 인덱서\bin\Debug\속성과 인덱서.pdb
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\속성과 인덱서\obj\Debug\속성과 인덱서.csproj.CoreCompileInputs.cache
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\속성과 인덱서\obj\Debug\속성과 인덱서.exe
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\속성과 인덱서\obj\Debug\속성과 인덱서.pdb
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\속성과 인덱서\obj\Debug\속성과 인덱서.csprojAssemblyReference.cache

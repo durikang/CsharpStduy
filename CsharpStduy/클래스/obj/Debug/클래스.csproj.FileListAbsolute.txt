@@ -1,0 +1,7 @@
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\클래스\bin\Debug\클래스.exe.config
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\클래스\bin\Debug\클래스.exe
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\클래스\bin\Debug\클래스.pdb
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\클래스\obj\Debug\클래스.csprojAssemblyReference.cache
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\클래스\obj\Debug\클래스.csproj.CoreCompileInputs.cache
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\클래스\obj\Debug\클래스.exe
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\클래스\obj\Debug\클래스.pdb
