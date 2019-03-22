@@ -8,3 +8,4 @@ C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\21.배열을 리�
 C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\21.배열을 리턴하는 함수\obj\Debug\netcoreapp2.1\21.배열을 리턴하는 함수.AssemblyInfo.cs
 C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\21.배열을 리턴하는 함수\obj\Debug\netcoreapp2.1\21.배열을 리턴하는 함수.dll
 C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\21.배열을 리턴하는 함수\obj\Debug\netcoreapp2.1\21.배열을 리턴하는 함수.pdb
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\21.배열을 리턴하는 함수\obj\Debug\netcoreapp2.1\21.배열을 리턴하는 함수.csprojAssemblyReference.cache

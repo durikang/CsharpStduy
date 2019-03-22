@@ -8,3 +8,4 @@ C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\char형 변환\ob
 C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\char형 변환\obj\Debug\netcoreapp2.1\01.char형 변환.AssemblyInfo.cs
 C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\char형 변환\obj\Debug\netcoreapp2.1\01.char형 변환.dll
 C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\char형 변환\obj\Debug\netcoreapp2.1\01.char형 변환.pdb
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\char형 변환\obj\Debug\netcoreapp2.1\01.char형 변환.csprojAssemblyReference.cache

@@ -8,3 +8,4 @@ C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\12.ReadLine\obj\D
 C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\12.ReadLine\obj\Debug\netcoreapp2.1\12.ReadLine.AssemblyInfo.cs
 C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\12.ReadLine\obj\Debug\netcoreapp2.1\12.ReadLine.dll
 C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\12.ReadLine\obj\Debug\netcoreapp2.1\12.ReadLine.pdb
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\12.ReadLine\obj\Debug\netcoreapp2.1\12.ReadLine.csprojAssemblyReference.cache

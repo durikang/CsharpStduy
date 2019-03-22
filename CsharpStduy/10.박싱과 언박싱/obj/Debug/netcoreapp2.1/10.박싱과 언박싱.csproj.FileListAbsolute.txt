@@ -8,3 +8,4 @@ C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\10.박싱과 언�
 C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\10.박싱과 언박싱\obj\Debug\netcoreapp2.1\10.박싱과 언박싱.AssemblyInfo.cs
 C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\10.박싱과 언박싱\obj\Debug\netcoreapp2.1\10.박싱과 언박싱.dll
 C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\10.박싱과 언박싱\obj\Debug\netcoreapp2.1\10.박싱과 언박싱.pdb
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\10.박싱과 언박싱\obj\Debug\netcoreapp2.1\10.박싱과 언박싱.csprojAssemblyReference.cache

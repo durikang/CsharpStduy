@@ -8,3 +8,4 @@ C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\09.cs\obj\Debug\n
 C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\09.cs\obj\Debug\netcoreapp2.1\09.cs.AssemblyInfo.cs
 C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\09.cs\obj\Debug\netcoreapp2.1\09.cs.dll
 C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\09.cs\obj\Debug\netcoreapp2.1\09.cs.pdb
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\09.cs\obj\Debug\netcoreapp2.1\09.cs.csprojAssemblyReference.cache

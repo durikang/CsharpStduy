@@ -8,3 +8,4 @@ C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\23.파일 입출�
 C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\23.파일 입출력\obj\Debug\netcoreapp2.1\23.파일 입출력.AssemblyInfo.cs
 C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\23.파일 입출력\obj\Debug\netcoreapp2.1\23.파일 입출력.dll
 C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\23.파일 입출력\obj\Debug\netcoreapp2.1\23.파일 입출력.pdb
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\23.파일 입출력\obj\Debug\netcoreapp2.1\23.파일 입출력.csprojAssemblyReference.cache

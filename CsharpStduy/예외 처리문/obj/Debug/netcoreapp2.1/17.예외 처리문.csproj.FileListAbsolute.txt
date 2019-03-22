@@ -8,3 +8,4 @@ C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\예외 처리문\
 C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\예외 처리문\obj\Debug\netcoreapp2.1\17.예외 처리문.AssemblyInfo.cs
 C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\예외 처리문\obj\Debug\netcoreapp2.1\17.예외 처리문.dll
 C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\예외 처리문\obj\Debug\netcoreapp2.1\17.예외 처리문.pdb
+C:\Users\kooda\OneDrive\바탕 화면\Csharp Study\CsharpStduy\예외 처리문\obj\Debug\netcoreapp2.1\17.예외 처리문.csprojAssemblyReference.cache
